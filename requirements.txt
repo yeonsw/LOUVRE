@@ -1,0 +1,14 @@
+transformers==3.1.0
+tqdm==4.46.0
+spacy==3.0.6
+numpy==1.18.5
+scipy==1.6.3
+jsonlines==2.0.0
+torch==1.6.0
+apex==0.1
+faiss_gpu==1.7.0
+regex==2021.4.4
+pytorch_pretrained_bert==0.6.2
+flashtext==2.7
+faiss==1.5.3
+scikit_learn==0.24.2
