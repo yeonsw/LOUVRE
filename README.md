@@ -1,6 +1,6 @@
 ## Weakly Supervised Pre-Training for Multi-Hop Retriever
 
-**[Yeon Seonwoo](https://yeonsw.github.io), Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha, Alice Oh** | ACL-Findings 2021
+**[Yeon Seonwoo](https://yeonsw.github.io), Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha, Alice Oh** | ACL-Findings 2021 | [paper](https://arxiv.org/abs/2106.09983)
 
 KAIST, NAVER Clova, NAVER AI Lab
 
